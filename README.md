@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus! Welcome to my github profile 👋
 
-- 🔭 I’m currently working as Scrum Master and Developer of the process mining tool called <a href="https://jumpcnj.cin.ufpe.br/" target="_blank">JuMP CNJ</a>
-- 🌱 I’m a data enthusiast and i've been digging into this topic lately
+- 🔭 I’m a data enthusiast and I’m currently working as data analyst at Neurotech.
+- 🌱 In 2021 I was the Scrum Master and Developer of the process mining tool called <a href="https://jumpcnj.cin.ufpe.br/" target="_blank">JuMP CNJ</a>
 
 <div align="center">
   <a href="https://github.com/matheusalvesalmeida">
