@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus! Welcome to my github profile 👋
 
-- 🔭 I’m a data enthusiast and I’m currently working as data analyst at Neurotech.
+- 🔭 I’m a data enthusiast and I’m currently working as data engineer at Neurotech.
 - 🌱 In 2021 I was the Scrum Master and Developer of the process mining tool called <a href="https://jumpcnj.cin.ufpe.br/" target="_blank">JuMP CNJ</a>
 
 <div align="center">
